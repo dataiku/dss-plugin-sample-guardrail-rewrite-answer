@@ -1,0 +1,20 @@
+{
+    "id": "sample-guardrail-rewrite-answer",
+    "version": "0.0.1",
+
+    "meta": {
+        "label": "Sample Guardrail - Rewrite LLM responses",
+
+        "description": "This sample guardrail rewrites LLM responses in a more magical and whimsical way",
+
+        "author": "Dataiku",
+
+        "icon": "fas fa-wand-magic",
+
+        "tags": ["LLM", "Generative AI", "Guardrails"],
+
+        "url": "https://doc.dataiku.com",
+
+        "licenseInfo": "Apache Software License"
+    }
+}

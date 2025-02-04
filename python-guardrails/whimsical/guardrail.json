@@ -1,0 +1,18 @@
+{
+    "id": "whimsical",
+    "meta": {
+        "label": "Rewrite LLM responses in a whimsical way",
+        "description": "This sample guardrail rewrites LLM responses in a more magical and whimsical way, using an auxiliary LLM"
+    },
+    
+    "operatesOnResponses": true,
+    
+    "params" : [
+        {
+            "name": "llm",
+            "label": "Rewriting LLM",
+            "type": "LLM",
+            "description": "Should be a 'generic' LLM, not an agent or RAG"
+        }
+    ]
+}
